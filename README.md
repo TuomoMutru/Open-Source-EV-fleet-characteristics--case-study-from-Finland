@@ -23,6 +23,6 @@ References:
 
 - Traficom. 2026. Open data for vehicles contains registration, approval and technical information for all vehicles in use from the register maintained by Traficom. [Online]. Accessed: 28.9.2026. Available: https://opendata.traficom.fi/Content/Ajoneuvorekisteri.zip
 
-- Gaia-charge/EVDB. 2026. Public domain EV database. [Online]. Accessed: 28.9.2026. Available: https://github.com/gaia-charge/evdb?tab=readme-ov-file
+- Gaia-charge/EVDB. 2026. Public domain EV database. [Online]. Accessed: 28.9.2026. Available: https://github.com/gaia-charge/evdb
 
 - Creative Commons. 2026. Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). [Online]. Accessed: 20.10.2026. Available: https://creativecommons.org/licenses/by-sa/4.0/deed.en

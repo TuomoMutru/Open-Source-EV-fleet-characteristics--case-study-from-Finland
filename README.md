@@ -1,4 +1,6 @@
-# Open-source EV fleet characteristics model: A case study from Finland
+## Open-source EV fleet characteristics model: 
+# A case study from Finland
+
 The rapid adoption of electric vehicles (EVs) is increasing their impact on transport systems, public infrastructure, and electricity grids. As EV penetration grows, understanding the characteristics of the national EV fleet becomes increasingly important for accurately assessing charging demand, electricity consumption, flexibility potential, and future infrastructure needs. While this is important factor, EV fleet characteristics is largely unknown and many recent studies rely on heavy simplifications on this topic.
 
 To fill this gap of knowledge, this GitHub version proposes novel open-source method to create more extensive outlook for local EV fleet characteristics. The case study is conducted in Finland, where open-source (CC BY-SA 4.0 licensed) registration dataset (Traficom, 2026) is combined with open-source (CC BY-SA 4.0 licensed) EV statistics dataset (Gaia-charge/EVDB, 2026).

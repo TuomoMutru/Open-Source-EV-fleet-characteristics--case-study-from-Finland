@@ -1,4 +1,4 @@
-## Open-source EV fleet characteristics model: 
+# Open-source EV fleet characteristics model: 
 # A case study from Finland
 
 The rapid adoption of electric vehicles (EVs) is increasing their impact on transport systems, public infrastructure, and electricity grids. As EV penetration grows, understanding the characteristics of the national EV fleet becomes increasingly important for accurately assessing charging demand, electricity consumption, flexibility potential, and future infrastructure needs. While this is important factor, EV fleet characteristics is largely unknown and many recent studies rely on heavy simplifications on this topic.

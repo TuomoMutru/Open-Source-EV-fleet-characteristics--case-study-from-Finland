@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Utilization of this repository is allowed under CC BY-SA 4.0. If you use this software, please cite it as below."
+
+title: "Open-source EV fleet characteristics model: A case study from Finland"
+
+authors:
+  - family-names: "Mutru"
+    given-names: "Tuomo"
+    # orcid: "https://orcid.org/0009-0007-7343-065X"
+
+version: "1.0.0"
+
+date-released: 2026-10-20
+
+repository-code: "https://github.com/TuomoMutru/Open-Source-EV-fleet-characteristics--case-study-from-Finland"
+
+license: "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
